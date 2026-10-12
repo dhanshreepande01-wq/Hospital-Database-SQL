@@ -1,6 +1,7 @@
 Hospital Database Management System (SQL)
 Project Overview
 A SQL-based project focused on managing hospital data and retrieving meaningful information through queries. The database includes doctors, patients, medicines, surgical items, appointments, and prescriptions.
+
 Database Tables
 •	Doctors: ID, Names, specializations, experience, and contact details.
 •	Patients: Names, age, gender, and city.
